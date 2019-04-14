@@ -4,7 +4,7 @@ author: "Juan Carlos Castillo"
 ---
 
 <figure>
-[![](/images/cover_slide.png)](/images/cover_EM.png)^[{-} `r blogdown::shortcode("courseinfo")`] 
+[![](/images/cover_EM.png)](/images/cover_EM.png)^[{-} `r blogdown::shortcode("courseinfo")`]
 </figure>
 
 Este es el sitio del curso ESTADISTICA MULTIVARIADA, Departamento de Sociología FACSO - UChile.
