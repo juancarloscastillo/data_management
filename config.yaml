@@ -1,6 +1,6 @@
 baseURL: "/"
 languageCode: en-us
-title: Data Management
+title: Estadística Multivariada
 theme: "jcc-tufte-hugo"
 googleAnalytics: ""
 ignoreFiles:
@@ -34,27 +34,27 @@ taxonomies:
   group: ""
   category: ""
 params:
-  author: Kieran Healy
+  author: Juan Carlos Castillo
   thumbnail: /images/dmgt_meta.png
   instructor: 
-    name: Kieran Healy
-    email: kjhealy@soc.duke.edu
-    url: "https://www.kieranhealy.org"
-    twitter: kjhealy
-    github: kjhealy
-    office: "Soc/Psych 255"
+    name: Juan Carlos Castillo
+    email: juancastillo@uchile.cl
+    url: "https://jc-castillo.com"
+    twitter: juankcastillo
+    github: juancarloscastillo
+    office: "FACSO 325"
   course:
     number: SOCIOL 880
-    semester: Spring 2019
-    days: "Thursdays"
-    time: "10:00AM-12:30PM"
-    location: "Soc/Psych 248"
-    twitter: kjhealy
-    dates: "January 11th–February 21st, 2019"
-    github: "kjhealy/datamanagement"
+    semester: 1ero 2019
+    days: "Lunes"
+    time: "10:15AM-13:15PM"
+    location: "FACSO Aulario poniente 7"
+    twitter: juankcastillo
+    dates: "Marzo-Julio, 2019"
+    github: "juancarloscastillo/datamanagement"
     copyrightYear: "2019"
     contactDetails: >-
-      Office hours: By appointment.
+      Horas de oficina: Con cita previa.
   university: 
     name: Duke University
     url: "https://www.duke.edu"
