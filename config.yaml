@@ -1,7 +1,7 @@
 baseURL: "/"
 languageCode: en-us
 title: Data Management
-theme: "kjh-tufte-hugo"
+theme: "jcc-tufte-hugo"
 googleAnalytics: ""
 ignoreFiles:
   - \.Rmd$
