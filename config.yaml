@@ -36,7 +36,7 @@ taxonomies:
 params:
   author: Juan Carlos Castillo
   thumbnail: /images/dmgt_meta.png
-  instructor: 
+  instructor:
     name: Juan Carlos Castillo
     email: juancastillo@uchile.cl
     url: "https://jc-castillo.com"
@@ -44,7 +44,7 @@ params:
     github: juancarloscastillo
     office: "FACSO 325"
   course:
-    number: SOCIOL 880
+    number:
     semester: 1ero 2019
     days: "Lunes"
     time: "10:15AM-13:15PM"
@@ -55,12 +55,12 @@ params:
     copyrightYear: "2019"
     contactDetails: >-
       Horas de oficina: Con cita previa.
-  university: 
-    name: Duke University
-    url: "https://www.duke.edu"
+  university:
+    name: Universidad de Chile
+    url: "https://www.uchile.cl"
   school:
-    name: Sociology Department
-    url: "https://sociology.duke.edu"
+    name: Departamento de Sociología
+    url: "http://www.facso.uchile.cl/sociologia"
   description: "Plain text social science"
   primaryColor: "#325C8E"
   secondaryColor: "#74080A"
